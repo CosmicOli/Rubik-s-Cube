@@ -1,0 +1,28 @@
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.exe
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.deps.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.runtimeconfig.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.runtimeconfig.dev.json
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.csproj.AssemblyReference.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.AssemblyInfoInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.AssemblyInfo.cs
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.csproj.CoreCompileInputs.cache
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.dll
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.pdb
+C:\Users\signu\OneDrive - Hills Road Sixth Form College\Computing\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.genruntimeconfig.cache
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.exe
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.deps.json
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.runtimeconfig.json
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.runtimeconfig.dev.json
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\bin\Debug\netcoreapp3.1\Rubix Cube.pdb
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.AssemblyInfo.cs
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.sourcelink.json
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.dll
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.pdb
+C:\Users\samue\OneDrive - University of Birmingham\Personal\Programing\Programming\Programming\Non School Work\Rubix Cube\Rubix Cube\obj\Debug\netcoreapp3.1\Rubix Cube.genruntimeconfig.cache
